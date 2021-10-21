@@ -1,0 +1,17 @@
+.body_backgorund 
+{
+    background-image: url('Background.jpg');
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border: 10px ridge darkblue;
+}
+
+#heading{
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
